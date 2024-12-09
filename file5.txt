@@ -1,0 +1,8 @@
+total 24
+-rw-rw-rw-  1 codespace root        13 Dec  5 11:14 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 Dec  9 09:28 distroless_dockerfile
+-rw-rw-rw-  1 codespace codespace   63 Dec  9 14:42 file4.txt
+-rw-rw-rw-  1 codespace codespace    0 Dec  9 14:43 file5.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Dec  9 07:17 multi_stage_docker_file
+drwxrwxrwx+ 3 codespace codespace 4096 Dec  9 14:38 sample2
+drwxrwxrwx+ 2 codespace codespace 4096 Dec  5 11:25 static-website

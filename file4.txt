@@ -1,0 +1,2 @@
+This is the content from file1
+Somthing added to the file4.txt
